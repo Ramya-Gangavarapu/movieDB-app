@@ -1,12 +1,8 @@
-Develop an application based on video-on-demand websites that provides an extensive database of available content. It should consist of various pages and a global navbar.
+# Movie Database
 
-- Popular Movies Page (Home Page)
-- Top Rated Movies Page
-- Upcoming Movies Page
-- Single Movie Details Page
-- Searched Movies Page
+## Overview
+The Movie Database is a comprehensive React-based application designed to provide users with a robust and user-friendly interface for exploring and discovering movies. This application was developed with a focus on building the frontend of the application, utilizing mock APIs for data fetching and implementing various features to enhance the user experience.
 
-<br/>
 ### List of Features
 
 #### Global Navbar:
